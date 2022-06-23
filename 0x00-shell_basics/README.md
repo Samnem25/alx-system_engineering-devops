@@ -1,1 +1,1 @@
-this is readme fie for shell basics
+this is readme file created for new Directory
